@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mojoto/.github/main/profile/assets/banner.svg" alt="Mojoto — A fresh take on Mojo. Small libraries. Fresh ideas." width="100%" />
+  <img src="https://raw.githubusercontent.com/mojoto/.github/main/profile/assets/banner.png" alt="Mojoto — A fresh take on Mojo. Mojo flame meets mojito lime and mint." width="100%" />
 </p>
 
 <p align="center">
