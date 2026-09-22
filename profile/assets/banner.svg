@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="400" viewBox="0 0 1280 400" role="img" aria-labelledby="title desc">
+  <title id="title">Mojoto — A fresh take on Mojo.</title>
+  <desc id="desc">Mint green Mojoto lettering on a dark green background, with an abstract lime and sparkling bubbles.</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#102c28"/><stop offset="1" stop-color="#071a19"/></linearGradient>
+    <linearGradient id="lime" x2="1" y2="1"><stop stop-color="#d5ff79"/><stop offset="1" stop-color="#64e5b3"/></linearGradient>
+  </defs>
+  <rect width="1280" height="400" rx="24" fill="url(#bg)"/>
+  <g fill="none" stroke="#31564a" opacity=".45">
+    <circle cx="1050" cy="205" r="260"/><circle cx="1050" cy="205" r="205"/>
+    <path d="M760 0v400M0 340h1280"/>
+  </g>
+  <text x="72" y="72" fill="#a6cfbb" font-family="Helvetica,Arial,sans-serif" font-size="14" letter-spacing="4">SMALL LIBRARIES. FRESH IDEAS.</text>
+  <text x="66" y="205" fill="#d5ffad" font-family="Helvetica,Arial,sans-serif" font-size="112" font-weight="700" letter-spacing="-6">Mojoto<tspan fill="#69e5b1">.</tspan></text>
+  <text x="72" y="267" fill="#f0f8ee" font-family="Helvetica,Arial,sans-serif" font-size="29">A fresh take on Mojo.</text>
+  <text x="72" y="365" fill="#a6cfbb" font-family="Helvetica,Arial,sans-serif" font-size="15">OPEN SOURCE  /  BUILT WITH MOJO</text>
+  <g transform="translate(1030 194) rotate(-25)">
+    <circle r="112" fill="url(#lime)"/>
+    <circle r="94" fill="#183f32"/>
+    <circle r="84" fill="#baf080"/>
+    <g stroke="#e7ffbd" stroke-width="7">
+      <path d="M0-84V84M-84 0H84M-59-59 59 59M-59 59 59-59"/>
+      <circle r="10" fill="#e7ffbd"/>
+    </g>
+    <path d="M27-105Q35-164 101-151Q91-100 27-105" fill="#68dda4"/>
+    <path d="m31-110 52-28" fill="none" stroke="#173e31" stroke-width="3"/>
+  </g>
+  <g fill="#a3f1c2"><circle cx="865" cy="106" r="6"/><circle cx="1188" cy="279" r="9"/><circle cx="874" cy="286" r="4"/></g>
+  <path d="M1192 84v20m-10-10h20M847 198v14m-7-7h14" stroke="#d5ffad" stroke-width="3" stroke-linecap="round"/>
+</svg>
