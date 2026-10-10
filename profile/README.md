@@ -41,12 +41,6 @@ def main() raises:
     print(response.text())
 ```
 
-<p>
-  <a href="https://github.com/mojoto/req.mojo/tree/main/website/docs"><strong>Documentation →</strong></a> &nbsp;&nbsp;
-  <a href="https://github.com/mojoto/req.mojo#installation">Installation</a> &nbsp; · &nbsp;
-  <a href="https://github.com/mojoto/req.mojo/releases">Releases</a>
-</p>
-
 ### Make yourself at home
 
 Found an edge case? Have a clearer example? Open an issue in [Morrow](https://github.com/mojoto/morrow.mojo/issues) or [Req](https://github.com/mojoto/req.mojo/issues), or send a pull request. Bug reports, documentation improvements, and small, thoughtful fixes are welcome.
