@@ -28,12 +28,6 @@ var morning = Morrow.get("2026-01-01 09:00:00Z")
 print(morning.to("+08:00").format("YYYY-MM-DD HH:mm:ss ZZ"))
 ```
 
-<p>
-  <a href="https://mojoto.github.io/morrow.mojo/"><strong>Documentation →</strong></a> &nbsp;&nbsp;
-  <a href="https://github.com/mojoto/morrow.mojo#installation">Installation</a> &nbsp; · &nbsp;
-  <a href="https://github.com/mojoto/morrow.mojo/releases">Releases</a>
-</p>
-
 ### Meet Req
 
 **[Req.mojo](https://github.com/mojoto/req.mojo)** brings a native synchronous HTTP/1.1 client to Mojo. Make HTTPS requests with certificate verification, reuse connections, work with cookies and JSON, and stream downloads with a straightforward API.
